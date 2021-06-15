@@ -3,9 +3,9 @@
   <tr>
     <td width="75%">
       <h1><font color=black>Weilian Li</font></h1>
-      <p><font size=5>PhD</font></p>
+      <p><font size=5>PhD | Post Doctor | Research Assistant</font></p>
       <p><font size=2>Tel: 17602884229</font></p>
-      <p><font size=2>Email: vgewilliam@my.swjtu.edu.cn</font></p>
+      <p><font size=2>Email: vgewilliam@my.swjtu.edu.cn | vgewilliam@163.com</font></p>
       <p><font size=2>Address: HafenCity University Hamburg, g2lab, Henning-Voscherau-Platz 120457 Hamburg, Germany</font></p>
       <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-          hamburg.de/g2lab/li.html">g2lab</a></font></p>
     </td>
@@ -15,7 +15,9 @@
   </tr>
 </table>
 
-## Education 
+## Short CV
+Weilian Li received the B.S. degree in Survey Engineering from Tianjin Chengjian University, Tianjin, China, in 2015. He received his Ph.D. degree in Geomatics Science and Technology from Southwest Jiaotong University, Chengdu, China, in 2020. Now he is a guest researcher at g2lab, HafenCity University Hamburg, Germany.  
+His research interests include Virtual geographic environments, 3D representation, Cartography and Virtual reality.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vgewilliam/vgewilliam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
