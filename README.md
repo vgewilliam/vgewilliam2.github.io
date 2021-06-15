@@ -3,12 +3,13 @@
   <tr>
     <td width="75%">
       <h1>Weilian Li</h1>
-      <p>PhD/Postdoc</p>
+      <p><font size=100p>PhD</font></p>
       <p>Tel: 17602884229</p>
       <p>Email: vgewilliam@my.swjtu.edu.cn</p>
+      <p>Address: Southwest Jiaotong University, West Park of Hi-Tech Zone, Chengdu, Sichuan, P. R. China</p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%"> 
+      <img src="/大头照.jpg" width="100%"> 
     </td>
   </tr>
 </table>
