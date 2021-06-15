@@ -3,10 +3,10 @@
   <tr>
     <td width="75%">
       <h1>Weilian Li</h1>
-      <p><font size=20>PhD</font></p>
-      <p><font size=15>Tel: 17602884229</font></p>
-      <p><font size=15>Email: vgewilliam@my.swjtu.edu.cn</font></p>
-      <p><font size=15>Address: Southwest Jiaotong University, West Park of Hi-Tech Zone, Chengdu, Sichuan, P. R. China</font></p>
+      <p><font size=10>PhD</font></p>
+      <p><font size=5>Tel: 17602884229</font></p>
+      <p><font size=5>Email: vgewilliam@my.swjtu.edu.cn</font></p>
+      <p><font size=5>Address: Southwest Jiaotong University, West Park of Hi-Tech Zone, Chengdu, Sichuan, P. R. China</font></p>
     </td>
     <td width="25%">
       <img src="/大头照.jpg" width="100%"> 
