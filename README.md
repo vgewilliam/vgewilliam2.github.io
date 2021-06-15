@@ -30,6 +30,9 @@
    <li><font size=3>Zhang Yunhao, Zhu Jun, <strong>Li Weilian.</strong> Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018. (Team Report)</font></li>
 </ul>
   
+<h2><font color=black>Academic Publications</font></h2>
+<hr size=50 color="red"/>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Fu Lin, Zhu Qing, Xie Yakun. An augmented representation method of debris flow scenes to improve public perception[J]. <i>International Journal of Geographical Information Science</i>, 2020, DOI: 10.1080/13658816.2020.1833016.</font></li>
   ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vgewilliam/vgewilliam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
