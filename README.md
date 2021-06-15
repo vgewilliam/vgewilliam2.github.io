@@ -16,7 +16,7 @@
 </table>
 
 <h2><font color=black>Short CV</font></h2>
-<HR align=center color=#987cb9 SIZE=1>
+<hr/ align=center color=#987cb9 SIZE=1>
 Weilian Li received the B.S. degree in Survey Engineering from Tianjin Chengjian University, Tianjin, China, in 2015. He received his Ph.D. degree in Geomatics Science and Technology from Southwest Jiaotong University, Chengdu, China, in 2020. Now he is a guest researcher at g2lab, HafenCity University Hamburg, Germany.  
 His research interests include Virtual geographic environments, 3D representation, Cartography and Virtual reality.
 ## Welcome to GitHub Pages
