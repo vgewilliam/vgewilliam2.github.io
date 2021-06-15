@@ -1,12 +1,12 @@
-## Welcome to William's homepage!
+# Welcome to William's homepage!
 <table border="0">
   <tr>
     <td width="75%">
       <h1>Weilian Li</h1>
-      <p><font size=100p>PhD</font></p>
-      <p>Tel: 17602884229</p>
-      <p>Email: vgewilliam@my.swjtu.edu.cn</p>
-      <p>Address: Southwest Jiaotong University, West Park of Hi-Tech Zone, Chengdu, Sichuan, P. R. China</p>
+      <p><font size=20>PhD</font></p>
+      <p><font size=15>Tel: 17602884229</font></p>
+      <p><font size=15>Email: vgewilliam@my.swjtu.edu.cn</font></p>
+      <p><font size=15>Address: Southwest Jiaotong University, West Park of Hi-Tech Zone, Chengdu, Sichuan, P. R. China</font></p>
     </td>
     <td width="25%">
       <img src="/大头照.jpg" width="100%"> 
