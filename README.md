@@ -51,14 +51,14 @@
   
   <h2><font color=black>Honors|Awards|Scholarships</font></h2>
   <hr size=50 color="red"/>
-   <li><font size=3>Sino-German (CSC-DAAD) Postdoc Scholarship[2021.06]</font></li>
-  <li><font size=3>Upcoming youngster of GIS  [2020.11]</font></li>
-  <li><font size=3>National Scholarship for Doctoral Students  [2019.10]</font></li>
-  <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU  [2019.05]</font></li>
-  <li><font size=3>HI-TARGET Prize of SWJTU  [2018.12]</font></li>
-  <li><font size=3>MingCheng Prize of SWJTU  [2018.10]</font></li>
-  <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU  [2018.03]</font></li>
-  <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE  [2017.11]</font></li>
+   <li><font size=3>Sino-German (CSC-DAAD) Postdoc Scholarship    [2021.06]</font></li>
+  <li><font size=3>Upcoming youngster of GIS    [2020.11]</font></li>
+  <li><font size=3>National Scholarship for Doctoral Students    [2019.10]</font></li>
+  <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU    [2019.05]</font></li>
+  <li><font size=3>HI-TARGET Prize of SWJTU    [2018.12]</font></li>
+  <li><font size=3>MingCheng Prize of SWJTU    [2018.10]</font></li>
+  <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU    [2018.03]</font></li>
+  <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE    [2017.11]</font></li>
   
   
   
