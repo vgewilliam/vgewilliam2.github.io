@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <h1>Weilian Li</h1>
-      <p>PhD</p>
+      <p>PhD/Postdoc</p>
       <p>Tel: 17602884229</p>
       <p>Email: vgewilliam@my.swjtu.edu.cn</p>
     </td>
