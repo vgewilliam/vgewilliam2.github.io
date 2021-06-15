@@ -1,9 +1,8 @@
-# Welcome to William's homepage!
 <table border="0">
   <tr>
     <td width="75%">
       <h1><font color=black>Weilian Li</font></h1>
-      <p><font size=5>PhD | Post Doctor | Research Assistant</font></p>
+      <p><font size=5>PhD | Post Doctor</font></p>
       <p><font size=2>Tel: 17602884229</font></p>
       <p><font size=2>Email: vgewilliam@my.swjtu.edu.cn | vgewilliam@163.com</font></p>
       <p><font size=2>Address: HafenCity University Hamburg, g2lab, Henning-Voscherau-Platz 120457 Hamburg, Germany</font></p>
