@@ -22,57 +22,45 @@
  
 <h2><font color=black>Academic Activities</font></h2>
 <hr size=50 color="red"/>
-  <ul>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. Display and Interaction of Disaster Scene for Mobile Virtual Reality. The 25th International Conference on Geoinformatics. Buffalo, USA, 2017. (Oral Presentation)</font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Modeling and Interaction Method with Spatial Semantic Constraint for Debris Flow VR Scene. The 26th International Conference on Geoinformatics. Kunming, China, 2018. (Oral Presentation)</font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Visualization Method for Disaster Information Based on Self-Explanatory Symbols and Photorealistic Scene Cooperation. 1st Regional Conference on Environmental Modeling and Software, Nanjing, China, 2019. (Oral Presentation)</font></li>
    <li><font size=3><strong>Li Weilian.</strong> Zhu Jun. Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018.(Short Exchange)</font></li>
    <li><font size=3>Zhang Yunhao, Zhu Jun, <strong>Li Weilian.</strong> Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018. (Team Report)</font></li>
-    <ul/>
   
 <h2><font color=black>Academic Publications</font></h2>
 <hr size=50 color="red"/>
-  <ul>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Fu Lin, Zhu Qing, Xie Yakun. An augmented representation method of debris flow scenes to improve public perception[J]. <i>International Journal of Geographical Information Science</i>, 2020, DOI: 10.1080/13658816.2020.1833016.<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1833016">[Download PDF]</a></font></li>
-  <li><font size=3><strong>Li Weilian,</strong> Li Weilian, Zhu Jun*, Fu Lin, Zhu Qing, Guo Yukun, Gong Yuhang. A rapid 3D reproduction system of dam-break floods constrained by post-disaster information[J]. Environmental Modelling Software, 2021, 139.<a href="https://doi.org/10.1016/j.envsoft.2021.104994">[Download PDF]</a></font></li>
-  <ul/>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Fu Lin, Zhu Qing, Guo Yukun, Gong Yuhang. A rapid 3D reproduction system of dam-break floods constrained by post-disaster information[J].<i> Environmental Modelling Software</i>, 2021, 139.<a href="https://doi.org/10.1016/j.envsoft.2021.104994">[Download PDF]</a></font></li>
+   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun, Zhang Yunhao, Fu Lin, Gong Yuhang, Hu Ya, Cao Yungang*. An on-demand construction method of disaster scenes for multitype users[J]. <i> Natural Hazards</i>, 2020, 101(2): 409-428.<a href="https://link.springer.com/article/10.1007/s11069-020-03879-z">[Download PDF]</a></font></li>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Zhang Yunhao, Cao Yungang*, Hu Ya, Fu Lin, Huang Pengcheng, Xie Yakun, Yin Lingzhi, Xu Bingli. A fusion visualization method for disaster information based on self-Explanatory symbols and photorealistic scene cooperation[J]. <i>ISPRS International Journal of Geo-Information</i>, 2019, 8(3): 104.<a href="https://www.mdpi.com/2220-9964/8/3/104">[Download PDF]</a></font></li>
+  <li><font size=3><strong>Li Weilian*,</strong> Zhu Jun, Zhang Yunhao, Hu Ya. Disaster scene fusion modeling and visualization method for emergency in the network environment[C]//<i>Geoinformatics, 2018 26th International Conference on IEEE</i>, 2018: 1-5. <a href="https://ieeexplore.ieee.org/abstract/document/8557166/">[Download PDF]</a></font></li>
+  <li><font size=3>Guo Yukun, Zhu Jun, Wang Yu, Chai Jinchuan, <strong>Li Weilian*,</strong> Fu Lin, Xu Bingli, Gong Yuhang. A virtual reality simulation method for crowd evacuation in a multiexit indoor fire environment[J]. <i>ISPRS International Journal of Geo-Information</i>, 2020, 9(12): 750. <a href="https://www.mdpi.com/2220-9964/9/12/750">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军*, 朱秀丽, 付林, 张昀昊, 胡亚, 何秋玲, 黄鹏诚. 无人机遥感数据支持下滑坡 VR 场景探索分析方法[J]. <i>武汉大学学报(信息科学版)</i>, 2019(07): 1065-1072. <a href="http://ch.whu.edu.cn/article/id/6448">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军, 张昀昊, 付林, 胡亚*, 尹灵芝, 戴义. 空间语义约束的泥石流灾害VR场景融合建模及交互方法[J]. <i>武汉大学学报(信息科学版)</i>, 2020, 45(07): 1073-1081. <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20180329">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军*, 胡亚, 张昀昊, 尹灵芝, 曹振宇. 面向多用户类型的泥石流应急灾害信息特征可视化方法[J]. <i>灾害学</i>, 2018, 33(02): 231-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjAxMjAzEgx6aHgyMDE4MDIwNDAaCGVjOGQ5bnRt">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军, 黄鹏诚, 王有祥, 周乐韬*. 不同可视化方法对泥石流灾害信息认知影响对比分析[J]. 灾害学, 2020, 35(02): 230-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNjA4Egx6aHgyMDIwMDIwNDEaCDNkZjdiM3Y5">[Download PDF]</a></font></li>
+    <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> Zhu Qing, Xu Bingli, Xie Yakun, Zhang Yunhao, Hu Ya, Lu Jingtao. Tunnel vision optimization method for VR flood scenes based on Gaussian blur[J].<i> International Journal of Digital Earth</i>, 2021.<a href="https://doi.org/10.1080/17538947.2021.1886359">[Download PDF]</a></font></li>
+  <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> You Jigang, Hua Zhangyu. Fast estimation method of volumes of landslide deposit by the 3D reconstruction of smartphone images[J].<i> Landslides</i>, 2021.<a href="https://doi.org/10.1007/s10346-021-01702-9">[Download PDF]</a></font></li>
+  
+  <h2><font color=black>Invention Patents</font></h2>
+  <hr size=50 color="red"/>
+    <li><font size=3>Zhu Jun, Cao Yungang, Hu Ya, <strong>Li Weilian,</strong> Tang Jun. A Dynamic Path Planning Method of UAV Under Complex Environment Constraints. Authorization Number:(CN)201910441841.9.<a href="https://www.zhangqiaokeyan.com/patent-detail/06120100993780.html">[Download PDF]</a></font></li>
+  <li><font size=3>Zhu Jun, Zhu Qing, <strong>Li Weilian,</strong> Zhang Tianyi, Ren Shiman, Dang Pei. An interactive method of personalized railway VR scene. Application Number:(CN)202010156431.2.<a href="https://www.zhangqiaokeyan.com/patent-detail/06120103842299.html">[Download PDF]</a></font></li>
+  <li><font size=3>Zhu Jun, Zhu Qing, <strong>Li Weilian,</strong> Fu Lin. VR scene optimization method based on tunnel vision. Application Number:(CN)202010883183.1.<a href="https://www.zhangqiaokeyan.com/patent-detail/06120112041717.html">[Download PDF]</a></font></li>
+  
+  <h2><font color=black>Honors|Awards|Scholarships</font></h2>
+  <hr size=50 color="red"/>
+  <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2017.11]</font></li>
+  <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2018.03]</font></li>
+  <li><font size=3>MingCheng Prize of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2018.10]</font></li>
+  <li><font size=3>HI-TARGET Prize of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2018.12]</font></li>
+  <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2019.05]</font></li>
+  <li><font size=3>National Scholarship for Doctoral Students&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2019.10]</font></li>
+  <li><font size=3>Upcoming youngster of GIS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2020.11]</font></li>
+  
+  
 
   
   
-  ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vgewilliam/vgewilliam.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vgewilliam/vgewilliam.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
