@@ -19,6 +19,16 @@
 <hr size=50 color="red"/>
 <p><font size=3>Weilian Li received the B.S. degree in Survey Engineering from Tianjin Chengjian University, Tianjin, China, in 2015. He received his Ph.D. degree in Geomatics Science and Technology from Southwest Jiaotong University, Chengdu, China, in 2020. Now he is a guest researcher at g2lab, HafenCity University Hamburg, Germany.
 <p><font size=3>His research interests include Virtual geographic environments, 3D representation, Cartography and Virtual reality.</font></p>
+ 
+<h2><font color=black>Academic Activities</font></h2>
+<hr size=50 color="red"/>
+ <ul>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. Display and Interaction of Disaster Scene for Mobile Virtual Reality. The 25th International Conference on Geoinformatics. Buffalo, USA, 2017. (Oral Presentation)</font></li>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Modeling and Interaction Method with Spatial Semantic Constraint for Debris Flow VR Scene. The 26th International Conference on Geoinformatics. Kunming, China, 2018. (Oral Presentation)</font></li>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Visualization Method for Disaster Information Based on Self-Explanatory Symbols and Photorealistic Scene Cooperation. 1st Regional Conference on Environmental Modeling and Software, Nanjing, China, 2019. (Oral Presentation)</font></li>
+   <li><font size=3><strong>Li Weilian.</strong> Zhu Jun. Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018.(Short Exchange)</font></li>
+   <li><font size=3>Zhang Yunhao, Zhu Jun, <strong>Li Weilian.</strong> Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018. (Team Report)</font></li>
+</ul>
   
   ## Welcome to GitHub Pages
 
