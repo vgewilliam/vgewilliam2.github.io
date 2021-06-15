@@ -5,7 +5,7 @@
       <h1><font color=black>Weilian Li</font></h1>
       <p><font size=5>PhD | Post Doctor</font></p>
       <p><font size=2>Tel: 17602884229</font></p>
-      <p><font size=2>Email: <a href="mailto:vgewilliam@my.swjtu.edu.cn">vgewilliam@my.swjtu.edu.cn</a> | vgewilliam@163.com</font></p>
+      <p><font size=2>Email: <a href="mailto:vgewilliam@my.swjtu.edu.cn">vgewilliam@my.swjtu.edu.cn</a> | <a href="mailto:vgewilliam@163.com">vgewilliam@163.com</a></font></p>
       <p><font size=2>Address: HafenCity University Hamburg, g2lab, Henning-Voscherau-Platz 120457 Hamburg</font></p>
       <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-          hamburg.de/g2lab/li.html">g2lab</a></font></p>
     </td>
@@ -16,7 +16,7 @@
 </table>
 
 <h2><font color=black>Short CV</font></h2>
-<hr size=5 color="red">
+<hr size=5 color="red"/>
 <p><font size=3>Weilian Li received the B.S. degree in Survey Engineering from Tianjin Chengjian University, Tianjin, China, in 2015. He received his Ph.D. degree in Geomatics Science and Technology from Southwest Jiaotong University, Chengdu, China, in 2020. Now he is a guest researcher at g2lab, HafenCity University Hamburg, Germany.
 <p><font size=3>His research interests include Virtual geographic environments, 3D representation, Cartography and Virtual reality.</font></p>
   
