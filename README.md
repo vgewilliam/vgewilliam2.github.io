@@ -4,10 +4,10 @@
     <td width="75%">
       <h1><font color=black>Weilian Li</font></h1>
       <p><font size=5>PhD | Post Doctor</font></p>
-      <p><font size=2>Tel: 17602884229</font></p>
+      <p><font size=2>Tel: +49 40 42 827 45 68</font></p>
       <p><font size=2>Email: <a href="mailto:vgewilliam@my.swjtu.edu.cn">vgewilliam@my.swjtu.edu.cn</a> | <a href="mailto:vgewilliam@163.com">vgewilliam@163.com</a></font></p>
       <p><font size=2>Address: HafenCity University Hamburg, g2lab, Henning-Voscherau-Platz 120457 Hamburg</font></p>
-      <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-          hamburg.de/g2lab/li.html">g2lab</a></font></p>
+      <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-hamburg.de/g2lab/li.html">g2lab</a></font></p>
     </td>
     <td width="25%">
       <img src="/大头照.jpg" width="100%"> 
@@ -36,10 +36,10 @@
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Zhang Yunhao, Cao Yungang*, Hu Ya, Fu Lin, Huang Pengcheng, Xie Yakun, Yin Lingzhi, Xu Bingli. A fusion visualization method for disaster information based on self-Explanatory symbols and photorealistic scene cooperation[J]. <i>ISPRS International Journal of Geo-Information</i>, 2019, 8(3): 104.<a href="https://www.mdpi.com/2220-9964/8/3/104">[Download PDF]</a></font></li>
   <li><font size=3><strong>Li Weilian*,</strong> Zhu Jun, Zhang Yunhao, Hu Ya. Disaster scene fusion modeling and visualization method for emergency in the network environment[C]//<i>Geoinformatics, 2018 26th International Conference on IEEE</i>, 2018: 1-5. <a href="https://ieeexplore.ieee.org/abstract/document/8557166/">[Download PDF]</a></font></li>
   <li><font size=3>Guo Yukun, Zhu Jun, Wang Yu, Chai Jinchuan, <strong>Li Weilian*,</strong> Fu Lin, Xu Bingli, Gong Yuhang. A virtual reality simulation method for crowd evacuation in a multiexit indoor fire environment[J]. <i>ISPRS International Journal of Geo-Information</i>, 2020, 9(12): 750. <a href="https://www.mdpi.com/2220-9964/9/12/750">[Download PDF]</a></font></li>
-  <li><font size=3><strong>李维炼,</strong> 朱军*, 朱秀丽, 付林, 张昀昊, 胡亚, 何秋玲, 黄鹏诚. 无人机遥感数据支持下滑坡 VR 场景探索分析方法[J]. <i>武汉大学学报(信息科学版)</i>, 2019(07): 1065-1072. <a href="http://ch.whu.edu.cn/article/id/6448">[Download PDF]</a></font></li>
-  <li><font size=3><strong>李维炼,</strong> 朱军, 张昀昊, 付林, 胡亚*, 尹灵芝, 戴义. 空间语义约束的泥石流灾害VR场景融合建模及交互方法[J]. <i>武汉大学学报(信息科学版)</i>, 2020, 45(07): 1073-1081. <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20180329">[Download PDF]</a></font></li>
-  <li><font size=3><strong>李维炼,</strong> 朱军*, 胡亚, 张昀昊, 尹灵芝, 曹振宇. 面向多用户类型的泥石流应急灾害信息特征可视化方法[J]. <i>灾害学</i>, 2018, 33(02): 231-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjAxMjAzEgx6aHgyMDE4MDIwNDAaCGVjOGQ5bnRt">[Download PDF]</a></font></li>
-  <li><font size=3><strong>李维炼,</strong> 朱军, 黄鹏诚, 王有祥, 周乐韬*. 不同可视化方法对泥石流灾害信息认知影响对比分析[J]. 灾害学, 2020, 35(02): 230-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNjA4Egx6aHgyMDIwMDIwNDEaCDNkZjdiM3Y5">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军*, 朱秀丽, 付林, 张昀昊, 胡亚, 何秋玲, 黄鹏诚. 无人机遥感数据支持下滑坡 VR 场景探索分析方法[J]. <i>武汉大学学报(信息科学版)</i>, 2019(07): 1065-1072.(In Chinese) <a href="http://ch.whu.edu.cn/article/id/6448">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军, 张昀昊, 付林, 胡亚*, 尹灵芝, 戴义. 空间语义约束的泥石流灾害VR场景融合建模及交互方法[J]. <i>武汉大学学报(信息科学版)</i>, 2020, 45(07): 1073-1081.(In Chinese) <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20180329">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军*, 胡亚, 张昀昊, 尹灵芝, 曹振宇. 面向多用户类型的泥石流应急灾害信息特征可视化方法[J]. <i>灾害学</i>, 2018, 33(02): 231-234.(In Chinese) <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjAxMjAzEgx6aHgyMDE4MDIwNDAaCGVjOGQ5bnRt">[Download PDF]</a></font></li>
+  <li><font size=3><strong>李维炼,</strong> 朱军, 黄鹏诚, 王有祥, 周乐韬*. 不同可视化方法对泥石流灾害信息认知影响对比分析[J]. 灾害学, 2020, 35(02): 230-234.(In Chinese) <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNjA4Egx6aHgyMDIwMDIwNDEaCDNkZjdiM3Y5">[Download PDF]</a></font></li>
   <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> Zhu Qing, Xu Bingli, Xie Yakun, Zhang Yunhao, Hu Ya, Lu Jingtao. Tunnel vision optimization method for VR flood scenes based on Gaussian blur[J].<i> International Journal of Digital Earth</i>, 2021.<a href="https://doi.org/10.1080/17538947.2021.1886359">[Download PDF]</a></font></li>
   <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> You Jigang, Hua Zhangyu. Fast estimation method of volumes of landslide deposit by the 3D reconstruction of smartphone images[J].<i> Landslides</i>, 2021.<a href="https://doi.org/10.1007/s10346-021-01702-9">[Download PDF]</a></font></li>
   <li><font size=3>Zhang Yunhao, Zhu Jun*, Zhu Qing, Xie Yakun, <strong>Li Weilian,</strong> Fu Lin, Zhang Junxiao, Tan Jianmei. The construction of personalized virtual landslide disaster environments based on knowledge graphs and deep neural networks[J]. <i> International Journal of Digital Earth</i>, 2020: 1-19.<a href="https://www.tandfonline.com/doi/full/10.1080/17538947.2020.1773950">[Download PDF]</a></font></li>
