@@ -22,15 +22,20 @@
  
 <h2><font color=black>Academic Activities</font></h2>
 <hr size=50 color="red"/>
+  <ul>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. Display and Interaction of Disaster Scene for Mobile Virtual Reality. The 25th International Conference on Geoinformatics. Buffalo, USA, 2017. (Oral Presentation)</font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Modeling and Interaction Method with Spatial Semantic Constraint for Debris Flow VR Scene. The 26th International Conference on Geoinformatics. Kunming, China, 2018. (Oral Presentation)</font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Visualization Method for Disaster Information Based on Self-Explanatory Symbols and Photorealistic Scene Cooperation. 1st Regional Conference on Environmental Modeling and Software, Nanjing, China, 2019. (Oral Presentation)</font></li>
    <li><font size=3><strong>Li Weilian.</strong> Zhu Jun. Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018.(Short Exchange)</font></li>
    <li><font size=3>Zhang Yunhao, Zhu Jun, <strong>Li Weilian.</strong> Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018. (Team Report)</font></li>
+    <ul/>
   
 <h2><font color=black>Academic Publications</font></h2>
 <hr size=50 color="red"/>
+  <ul>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Fu Lin, Zhu Qing, Xie Yakun. An augmented representation method of debris flow scenes to improve public perception[J]. <i>International Journal of Geographical Information Science</i>, 2020, DOI: 10.1080/13658816.2020.1833016.<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1833016">[Download PDF]</a></font></li>
+  <li><font size=3><strong>Li Weilian,</strong> Li Weilian, Zhu Jun*, Fu Lin, Zhu Qing, Guo Yukun, Gong Yuhang. A rapid 3D reproduction system of dam-break floods constrained by post-disaster information[J]. Environmental Modelling Software, 2021, 139.<a href="https://doi.org/10.1016/j.envsoft.2021.104994">[Download PDF]</a></font></li>
+  <ul/>
 
   
   
