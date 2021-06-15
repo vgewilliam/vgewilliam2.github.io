@@ -42,6 +42,9 @@
   <li><font size=3><strong>李维炼,</strong> 朱军, 黄鹏诚, 王有祥, 周乐韬*. 不同可视化方法对泥石流灾害信息认知影响对比分析[J]. 灾害学, 2020, 35(02): 230-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNjA4Egx6aHgyMDIwMDIwNDEaCDNkZjdiM3Y5">[Download PDF]</a></font></li>
   <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> Zhu Qing, Xu Bingli, Xie Yakun, Zhang Yunhao, Hu Ya, Lu Jingtao. Tunnel vision optimization method for VR flood scenes based on Gaussian blur[J].<i> International Journal of Digital Earth</i>, 2021.<a href="https://doi.org/10.1080/17538947.2021.1886359">[Download PDF]</a></font></li>
   <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> You Jigang, Hua Zhangyu. Fast estimation method of volumes of landslide deposit by the 3D reconstruction of smartphone images[J].<i> Landslides</i>, 2021.<a href="https://doi.org/10.1007/s10346-021-01702-9">[Download PDF]</a></font></li>
+  <li><font size=3>Zhang Yunhao, Zhu Jun*, Zhu Qing, Xie Yakun, <strong>Li Weilian,</strong> Fu Lin, Zhang Junxiao, Tan Jianmei. The construction of personalized virtual landslide disaster environments based on knowledge graphs and deep neural networks[J]. <i> International Journal of Digital Earth</i>, 2020: 1-19.<a href="https://www.tandfonline.com/doi/full/10.1080/17538947.2020.1773950">[Download PDF]</a></font></li>
+  <li><font size=3> Xie Yakun, Zhu Jun, Cao Yungang*, Feng Dejun, Hu Minjun, <strong>Li Weilian,</strong> Zhang Yunhao, Fun Lin. Refined extraction of building outlines from high-resolution remote sensing imagery based on a multifeature convolutional neural network and morphological filtering[J]. <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 2020, 13: 1842-1855.<a href="https://ieeexplore.ieee.org/document/9082895">[Download PDF]</a></font></li>
+  
   
   <h2><font color=black>Invention Patents</font></h2>
   <hr size=50 color="red"/>
