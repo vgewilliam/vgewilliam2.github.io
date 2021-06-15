@@ -6,8 +6,8 @@
       <p><font size=5>PhD</font></p>
       <p><font size=2>Tel: 17602884229</font></p>
       <p><font size=2>Email: vgewilliam@my.swjtu.edu.cn</font></p>
-      <p><font size=2>Address: Southwest Jiaotong University, West Park of Hi-Tech Zone, Chengdu, Sichuan, P. R. China</font></p>
-      <p><font size=2>Profiles:<a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a></font></p>
+      <p><font size=2>Address: HafenCity University Hamburg, g2lab, Henning-Voscherau-Platz 120457 Hamburg, Germany</font></p>
+      <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a>| <a href="http://www.geomatik-hamburg.de/g2lab/li.html">g2lab</a></font></p>
     </td>
     <td width="25%">
       <img src="/大头照.jpg" width="100%"> 
