@@ -40,7 +40,7 @@
   <li><font size=3><strong>李维炼,</strong> 朱军, 张昀昊, 付林, 胡亚*, 尹灵芝, 戴义. 空间语义约束的泥石流灾害VR场景融合建模及交互方法[J]. <i>武汉大学学报(信息科学版)</i>, 2020, 45(07): 1073-1081. <a href="http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20180329">[Download PDF]</a></font></li>
   <li><font size=3><strong>李维炼,</strong> 朱军*, 胡亚, 张昀昊, 尹灵芝, 曹振宇. 面向多用户类型的泥石流应急灾害信息特征可视化方法[J]. <i>灾害学</i>, 2018, 33(02): 231-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjAxMjAzEgx6aHgyMDE4MDIwNDAaCGVjOGQ5bnRt">[Download PDF]</a></font></li>
   <li><font size=3><strong>李维炼,</strong> 朱军, 黄鹏诚, 王有祥, 周乐韬*. 不同可视化方法对泥石流灾害信息认知影响对比分析[J]. 灾害学, 2020, 35(02): 230-234. <a href="https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjEwNjA4Egx6aHgyMDIwMDIwNDEaCDNkZjdiM3Y5">[Download PDF]</a></font></li>
-    <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> Zhu Qing, Xu Bingli, Xie Yakun, Zhang Yunhao, Hu Ya, Lu Jingtao. Tunnel vision optimization method for VR flood scenes based on Gaussian blur[J].<i> International Journal of Digital Earth</i>, 2021.<a href="https://doi.org/10.1080/17538947.2021.1886359">[Download PDF]</a></font></li>
+  <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> Zhu Qing, Xu Bingli, Xie Yakun, Zhang Yunhao, Hu Ya, Lu Jingtao. Tunnel vision optimization method for VR flood scenes based on Gaussian blur[J].<i> International Journal of Digital Earth</i>, 2021.<a href="https://doi.org/10.1080/17538947.2021.1886359">[Download PDF]</a></font></li>
   <li><font size=3>Fu Lin, Zhu Jun*, <strong>Li Weilian, </strong> You Jigang, Hua Zhangyu. Fast estimation method of volumes of landslide deposit by the 3D reconstruction of smartphone images[J].<i> Landslides</i>, 2021.<a href="https://doi.org/10.1007/s10346-021-01702-9">[Download PDF]</a></font></li>
   
   <h2><font color=black>Invention Patents</font></h2>
@@ -51,13 +51,22 @@
   
   <h2><font color=black>Honors|Awards|Scholarships</font></h2>
   <hr size=50 color="red"/>
-  <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2017.11]</font></li>
-  <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2018.03]</font></li>
-  <li><font size=3>MingCheng Prize of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2018.10]</font></li>
-  <li><font size=3>HI-TARGET Prize of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2018.12]</font></li>
-  <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2019.05]</font></li>
-  <li><font size=3>National Scholarship for Doctoral Students&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2019.10]</font></li>
-  <li><font size=3>Upcoming youngster of GIS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp[2020.11]</font></li>
+   <li><font size=3>Sino-German (CSC-DAAD) Postdoc Scholarship[2021.06]</font></li>
+  <li><font size=3>Upcoming youngster of GIS  [2020.11]</font></li>
+  <li><font size=3>National Scholarship for Doctoral Students  [2019.10]</font></li>
+  <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU  [2019.05]</font></li>
+  <li><font size=3>HI-TARGET Prize of SWJTU  [2018.12]</font></li>
+  <li><font size=3>MingCheng Prize of SWJTU  [2018.10]</font></li>
+  <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU  [2018.03]</font></li>
+  <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE  [2017.11]</font></li>
+  
+  
+  
+  
+  
+  
+ 
+
   
   
 
