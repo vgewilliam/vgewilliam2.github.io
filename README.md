@@ -26,7 +26,7 @@
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Modeling and Interaction Method with Spatial Semantic Constraint for Debris Flow VR Scene. The 26th International Conference on Geoinformatics. Kunming, China, 2018. (Oral Presentation)</font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun. A Fusion Visualization Method for Disaster Information Based on Self-Explanatory Symbols and Photorealistic Scene Cooperation. 1st Regional Conference on Environmental Modeling and Software, Nanjing, China, 2019. (Oral Presentation)</font></li>
    <li><font size=3><strong>Li Weilian.</strong> Zhu Jun. Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018.(Short Exchange)</font></li>
-   <li><font size=3>Zhang Yunhao, Zhu Jun, <strong>Li Weilian.</strong> Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Bonn, Germany, 2018. (Team Report)</font></li>
+   <li><font size=3>Zhang Yunhao, Zhu Jun, <strong>Li Weilian.</strong> Modeling and Visual Analysis of Typical Disasters in Virtual Geographic Environment. Delft, Netherlands, 2018. (Team Report)</font></li>
   
 <h2><font color=black>Academic Publications</font></h2>
 <hr size=50 color="red"/>
@@ -55,7 +55,7 @@
   <h2><font color=black>Honors|Awards|Scholarships</font></h2>
   <hr size=50 color="red"/>
    <li><font size=3>Sino-German (CSC-DAAD) Postdoc Scholarship    [2021.06]</font></li>
-  <li><font size=3>Upcoming youngster of GIS    [2020.11]</font></li>
+  <li><font size=3>Honored as Promising Young Researcher in College GIS Forum    [2020.11]</font></li>
   <li><font size=3>National Scholarship for Doctoral Students    [2019.10]</font></li>
   <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU    [2019.05]</font></li>
   <li><font size=3>HI-TARGET Prize of SWJTU    [2018.12]</font></li>
