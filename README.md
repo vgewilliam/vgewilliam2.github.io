@@ -63,6 +63,9 @@
   <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU    [2018.03]</font></li>
   <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE    [2017.11]</font></li>
   
+  <h3><font color=black>Download complete CV</font></h3>
+
+  
   
   
   
