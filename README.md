@@ -10,7 +10,7 @@
       <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-hamburg.de/g2lab/li.html">g2lab</a></font></p>
     </td>
     <td width="25%">
-      <img src="/大头照.jpg" width="100%"> 
+      <img src="/2寸.jpg" width="100%"> 
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
   
   <h2><font color=black>Honors|Awards|Scholarships</font></h2>
   <hr size=50 color="red"/>
-   <li><font size=3>Sino-German (CSC-DAAD) Postdoc Scholarship    [2021.06]</font></li>
+   <li><font size=3>Sino-German (China Scholarship Council(CSC) and Deutscher Akademischer Austauschdienst(DAAD)) Postdoc Scholarship    [2021.06]</font></li>
   <li><font size=3>Honored as Promising Young Researcher in College GIS Forum    [2020.11]</font></li>
   <li><font size=3>National Scholarship for Doctoral Students    [2019.10]</font></li>
   <li><font size=3>The Cultivation Program for the Innovative Doctoral Dissertation of SWJTU    [2019.05]</font></li>
