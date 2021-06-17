@@ -63,7 +63,7 @@
   <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU    [2018.03]</font></li>
   <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE    [2017.11]</font></li>
   
-  <h3><font color=black>Download complete <a href="/CV_Weilian Li_EN_v5.pdf">CV</a></font></h3>
+  <h3><font color=black>Download complete <a href="/CV_Weilian Li_EN_v5.pdf">[CV PDF]</a></font></h3>
 
   
   
