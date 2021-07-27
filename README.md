@@ -4,9 +4,9 @@
     <td width="75%">
       <h1><font color=black>Weilian Li</font></h1>
       <p><font size=5>PhD | Post Doctor</font></p>
-      <p><font size=2>Tel: +49 40 42 827 45 68</font></p>
+      <p><font size=2>Tel: +02866367592</font></p>
       <p><font size=2>Email: <a href="mailto:vgewilliam@my.swjtu.edu.cn">vgewilliam@my.swjtu.edu.cn</a> | <a href="mailto:vgewilliam@163.com">vgewilliam@163.com</a></font></p>
-      <p><font size=2>Address: HafenCity University Hamburg, g2lab, Henning-Voscherau-Platz 120457 Hamburg</font></p>
+      <p><font size=2>Address: Southwest Jiaotong University, Xipu campus, Chengdu, Sichuan, P.R. China</font></p>
       <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-hamburg.de/g2lab/li.html">g2lab</a></font></p>
     </td>
     <td width="25%">
