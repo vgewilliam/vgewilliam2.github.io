@@ -4,10 +4,10 @@
     <td width="75%">
       <h1><font color=black>Weilian Li</font></h1>
       <p><font size=5>PhD | Post Doctor</font></p>
-      <p><font size=2>Tel: +02866367592</font></p>
+      <p><font size=2>Tel: +49-228-73-9615</font></p>
       <p><font size=2>Email: <a href="mailto:vgewilliam@my.swjtu.edu.cn">vgewilliam@my.swjtu.edu.cn</a> | <a href="mailto:vgewilliam@163.com">vgewilliam@163.com</a></font></p>
-      <p><font size=2>Address: Southwest Jiaotong University, Xipu campus, Chengdu, Sichuan, P.R. China</font></p>
-      <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="http://www.geomatik-hamburg.de/g2lab/li.html">g2lab</a></font></p>
+      <p><font size=2>Address: Meckenheimer Allee 172, D-53115, Bonn</font></p>
+      <p><font size=2>Profiles: <a href="https://scholar.google.com/citations?user=9nRqNbMAAAAJ&hl=zh-CN">Google Scholar</a></font></p>
     </td>
     <td width="25%">
       <img src="/2寸.jpg" width="100%"> 
@@ -17,7 +17,7 @@
 
 <h2><font color=black>Short CV</font></h2>
 <hr size=50 color="red"/>
-<p><font size=3>Weilian Li received the B.S. degree in Survey Engineering from Tianjin Chengjian University, Tianjin, China, in 2015. He received his Ph.D. degree in Geomatics Science and Technology from Southwest Jiaotong University, Chengdu, China, in 2020. Now he is a guest researcher at g2lab, HafenCity University Hamburg, Germany.
+<p><font size=3>Weilian Li received his Ph.D. degree in Geomatics Science and Technology from Southwest Jiaotong University, Chengdu, China, in 2020. Now he is a postdocoral researcher at lnstitute for Geodesy and Geoinformation, University of Bonn, Germany.
 <p><font size=3>His research interests include Virtual geographic environments, 3D representation, Cartography and Virtual reality.</font></p>
  
 <h2><font color=black>Scientific Presentations</font></h2>
@@ -32,6 +32,7 @@
 <hr size=50 color="red"/>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Fu Lin, Zhu Qing, Xie Yakun. An augmented representation method of debris flow scenes to improve public perception[J]. <i>International Journal of Geographical Information Science</i>, 2020, DOI: 10.1080/13658816.2020.1833016.<a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1833016">[Download PDF]</a><a href="https://youtu.be/_HRsbqLxuEw">[Download Video]</a></font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Fu Lin, Zhu Qing, Guo Yukun, Gong Yuhang. A rapid 3D reproduction system of dam-break floods constrained by post-disaster information[J].<i> Environmental Modelling Software</i>, 2021, 139.<a href="https://doi.org/10.1016/j.envsoft.2021.104994">[Download PDF]</a><a href="https://www.youtube.com/watch?v=WhKLYysEjm8">[Download Video]</a></font></li>
+  <li><font size=3><strong>Li Weilian,</strong> Zhu Jun, Gong Yuhang, Zhu Qing, Xu Bingli, Chen Min. An optimal selection method for debris flow scene symbols considering public cognition differences. International Journal of Disaster Risk Reduction[J]. <i> International Journal of Disaster Risk Reduction</i>, 2021, 102698.<a href="https://doi.org/10.1016/j.ijdrr.2021.102698.">[Download PDF]</a></font></li>
    <li><font size=3><strong>Li Weilian,</strong> Zhu Jun, Zhang Yunhao, Fu Lin, Gong Yuhang, Hu Ya, Cao Yungang*. An on-demand construction method of disaster scenes for multitype users[J]. <i> Natural Hazards</i>, 2020, 101(2): 409-428.<a href="https://link.springer.com/article/10.1007/s11069-020-03879-z">[Download PDF]</a></font></li>
   <li><font size=3><strong>Li Weilian,</strong> Zhu Jun*, Zhang Yunhao, Cao Yungang*, Hu Ya, Fu Lin, Huang Pengcheng, Xie Yakun, Yin Lingzhi, Xu Bingli. A fusion visualization method for disaster information based on self-Explanatory symbols and photorealistic scene cooperation[J]. <i>ISPRS International Journal of Geo-Information</i>, 2019, 8(3): 104.<a href="https://www.mdpi.com/2220-9964/8/3/104">[Download PDF]</a></font></li>
   <li><font size=3><strong>Li Weilian*,</strong> Zhu Jun, Zhang Yunhao, Hu Ya. Disaster scene fusion modeling and visualization method for emergency in the network environment[C]//<i>Geoinformatics, 2018 26th International Conference on IEEE</i>, 2018: 1-5. <a href="https://ieeexplore.ieee.org/abstract/document/8557166/">[Download PDF]</a></font></li>
@@ -63,7 +64,6 @@
   <li><font size=3>The Cultivation Target for Top Innovation Talents of SWJTU    [2018.03]</font></li>
   <li><font size=3>Early Career Research Paper Prize of the 6th National Conference on VGE    [2017.11]</font></li>
   
-  <h3><font color=black>Download complete <a href="/CV_Weilian Li_EN_v7.pdf">[CV PDF]</a></font></h3>
 
   
   
